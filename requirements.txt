@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+scikit-learn
+lightgbm
+joblib
+torch
+transformers
+datasets
+matplotlib
+
+#pip install -r requirements.txt -> to install all the reuqirements.txts
